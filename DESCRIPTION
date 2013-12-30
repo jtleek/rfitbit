@@ -1,0 +1,10 @@
+Package: rfitbit
+Title: The R fitbit package
+Description: A package for downloading, manipulating and analyzing data
+from the Fitbit device. This code is based not the python-fitbit module
+created by Andrew Wilkinson (https://github.com/andrewjw/python-fitbit). 
+Version: 0.1
+Authors: Jeff Leek <jtleek@gmail.com> 
+Depends: R (>= 3.0.1), httr
+License: MIT
+LazyData: true
